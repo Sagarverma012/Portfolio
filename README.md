@@ -1,36 +1,128 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🕸️ Sagar Verma Portfolio
 
-## Getting Started
+A futuristic Spider-Verse inspired developer portfolio built with Next.js, React, TypeScript, Tailwind CSS, and Framer Motion.
 
-First, run the development server:
+Designed to showcase projects, skills, and experience through an immersive and responsive user experience.
+
+---
+
+## 🚀 Features
+
+*  Spider-Verse Inspired Design
+*  Fully Responsive Layout
+*  Interactive Hero Section
+*  Mission-Based Project Showcase
+*  Origin Dossier & Web Arsenal
+*  Framer Motion Animations
+*  Custom HUD & Scan Line Effects
+*  Resume Download
+*  Mobile, Tablet & Desktop Optimized
+*  SEO Optimized
+
+---
+
+##  Tech Stack
+
+### Frontend
+
+* Next.js 16
+* React 19
+* TypeScript
+* Tailwind CSS 4
+
+### Animation
+
+* Framer Motion
+
+### Development Tools
+
+* Git
+* GitHub
+* VS Code
+* ESLint
+
+---
+
+##  Dependencies
+
+```json
+{
+  "next": "^16.2.6",
+  "react": "^19.2.4",
+  "react-dom": "^19.2.4",
+  "framer-motion": "^12.40.0",
+  "tailwindcss": "^4.3.0",
+  "typescript": "^5.9.3"
+}
+```
+
+---
+
+## ⚙️ Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sagarverma012/Portfolio.git
+```
+
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 📂 Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+src/
+│
+├── app/
+│   ├── components/
+│   │   ├── effects/
+│   │   ├── Navbar.tsx
+│   │   ├── Hero.tsx
+│   │   ├── Origin.tsx
+│   │   ├── Arsenal.tsx
+│   │   ├── Missions.tsx
+│   │   ├── Contact.tsx
+│   │   └── Footer.tsx
+│   │
+│   ├── layout.tsx
+│   ├── page.tsx
+│   └── globals.css
+│
+└── public/
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Author
 
-## Deploy on Vercel
+**Sagar Verma**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Full Stack Developer
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+GitHub:
+https://github.com/Sagarverma012
+
+---
+
+##  License
+
+This project is licensed under the MIT License.
