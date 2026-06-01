@@ -22,7 +22,7 @@ export default function Missions() {
           </p>
 
           <h3 className="mt-3 text-3xl font-bold">
-            PORTFOLIO NEXUS
+            PORTFOLIO
           </h3>
 
           <p className="mt-2 italic text-zinc-400">
