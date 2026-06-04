@@ -130,7 +130,7 @@ export default function Hero() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/SAGAR12.pdf"
             download
             className="rounded-xl border border-zinc-700 px-6 py-3 font-semibold transition hover:scale-105 hover:border-white"
           >
